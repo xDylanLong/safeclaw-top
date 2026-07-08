@@ -1,5 +1,7 @@
 # SafeClaw：给一人公司准备的 AI 工作团队
 
+**中文** | [English](./README.en.md)
+
 很多一人公司并不是没有想法，也不是不会使用 AI 工具，而是每天都有太多重复但重要的事情需要推进：找客户、整理客户画像、判断谁更值得触达、写第一版内容、准备私信话术、复盘上一轮获客效果。
 
 这些工作如果都由创业者自己做，很容易被细碎任务拖住；如果全部交给外包，又很难保留业务上下文和长期判断。SafeClaw 想解决的是这个中间问题：把可拆解、可复用、可持续执行的工作交给不同 AI 员工，让创业者把注意力留给方向、判断和成交。
@@ -39,11 +41,3 @@ SafeClaw 更适合这些场景：
 如果你正在尝试用 AI 搭一个更轻量的工作团队，可以从官网了解 SafeClaw 当前的产品形态和内测入口：
 
 👉 https://www.safeclaw.top/
-
-## English Summary
-
-SafeClaw is an AI employee team for solo companies, founders, creators, and small teams. It helps turn repeatable business workflows into role-based AI work, including customer profiling, social media lead discovery, outreach drafting, content production, conversion support, and business review.
-
-Official website: https://www.safeclaw.top/
-
-This repository is a public introduction page for SafeClaw. Product source code is not hosted here.
