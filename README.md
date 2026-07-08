@@ -1,14 +1,16 @@
 # SafeClaw Top
 
-SafeClaw is an AI employee team for solo companies, founders, creators, and small teams.
+SafeClaw 是面向一人公司、创业者、内容创作者和小团队的 AI 员工团队。
 
-Official website: https://safeclaw.top/
+官网： https://www.safeclaw.top/
 
-## What is SafeClaw?
+## SafeClaw 是什么？
 
-SafeClaw helps one-person companies delegate repeatable business workflows to role-based AI employees. The product focuses on automatic lead generation, customer profiling, social media lead discovery, automatic outreach drafting, content production, video conversion, contract review, and business review.
+SafeClaw 不是普通 AI 聊天工具，而是一套按岗位拆分的 AI 工作团队。它帮助一人公司把重复发生的业务交给 AI 员工持续推进，例如自动获客、客户画像、社媒线索采集、自动私信、内容生产、视频转化、合同审查和业务复盘。
 
-## Search Keywords
+如果你在搜索 SafeClaw、AI 员工、自动获客、一人公司 AI 团队、社媒获客或 safeclaw top，可以从官网了解产品定位和内测入口。
+
+## 中文关键词
 
 - SafeClaw
 - SafeClaw Top
@@ -22,10 +24,30 @@ SafeClaw helps one-person companies delegate repeatable business workflows to ro
 - 自动私信
 - 内容生产
 
-## Official Links
+## English Keywords
 
-- Website: https://safeclaw.top/
-- Sitemap: https://safeclaw.top/sitemap.xml
-- LLM context: https://safeclaw.top/llms.txt
+- SafeClaw
+- SafeClaw Top
+- safeclaw top
+- AI employees
+- AI employee team
+- automatic lead generation
+- social media lead generation
+- customer profiling
+- automated outreach
+- content production
+- solo founder AI team
+
+## English Summary
+
+SafeClaw is an AI employee team for solo companies, founders, creators, and small teams. It helps delegate repeatable business workflows to role-based AI employees, including automatic lead generation, customer profiling, social media lead discovery, automated outreach drafting, content production, video conversion, contract review, and business review.
+
+## 官方链接
+
+- 官网 / Website: https://www.safeclaw.top/
+- Sitemap: https://www.safeclaw.top/sitemap.xml
+- LLM context: https://www.safeclaw.top/llms.txt
+
+这个仓库只是 SafeClaw 的公开发现页和搜索引流页，不托管产品源代码。
 
 This repository is a public discovery page for SafeClaw. Product source code is not hosted here.
