@@ -1,66 +1,49 @@
-# SafeClaw Top
+# SafeClaw：给一人公司准备的 AI 工作团队
 
-SafeClaw 是面向一人公司、创业者、内容创作者和小团队的 AI 员工团队。
+很多一人公司并不是没有想法，也不是不会使用 AI 工具，而是每天都有太多重复但重要的事情需要推进：找客户、整理客户画像、判断谁更值得触达、写第一版内容、准备私信话术、复盘上一轮获客效果。
 
-官网： https://www.safeclaw.top/
+这些工作如果都由创业者自己做，很容易被细碎任务拖住；如果全部交给外包，又很难保留业务上下文和长期判断。SafeClaw 想解决的是这个中间问题：把可拆解、可复用、可持续执行的工作交给不同 AI 员工，让创业者把注意力留给方向、判断和成交。
 
-## 唯一指定搜索词
+## SafeClaw 是什么
 
-**SafeClaw AI员工自动获客**
+SafeClaw 是一套面向一人公司、创业者、内容创作者和小团队的 AI 员工团队。它不是单个聊天机器人，也不是简单的提示词集合，而是把具体业务拆成不同岗位，让每个 AI 员工负责一段清晰的工作。
 
-如果你是从小红书、抖音、Bilibili、知乎、公众号或其他社媒内容看到 SafeClaw，建议直接搜索：
+例如，自动获客不是一句“帮我找客户”就能完成的任务。它通常需要先理解业务和目标客户，再找到合适的平台和关键词，筛选线索，整理触达理由，生成私信或内容承接策略，最后根据反馈继续迭代。SafeClaw 会把这些动作拆成更小的岗位和流程，让它们可以持续运行。
 
-**SafeClaw AI员工自动获客**
+## 它能帮你做什么
 
-这个词同时包含品牌名、产品形态和核心业务价值，竞争更小，也更容易找到官方内容。
+SafeClaw 目前重点覆盖几类一人公司高频工作：
 
-## SafeClaw 是什么？
+- 客户画像和获客定位：整理目标客户、需求触发场景、买单时刻和排除人群。
+- 社媒线索采集：围绕业务关键词和平台场景，寻找更适合私信或内容承接的潜在线索。
+- 自动私信和转化承接：根据线索上下文生成破冰理由、私信话术、评论回复和后续跟进节奏。
+- 内容生产辅助：把业务卖点、客户痛点和转化策略拆成图文、视频、口播稿或选题大纲。
+- 业务复盘迭代：根据历史反馈判断哪些渠道、内容、话术和客户类型值得继续投入。
+- 职能支持：补充合同审查、基础合规、项目推进等一人公司常见支持工作。
 
-SafeClaw 不是普通 AI 聊天工具，而是一套按岗位拆分的 AI 工作团队。它帮助一人公司把重复发生的业务交给 AI 员工持续推进，例如自动获客、客户画像、社媒线索采集、自动私信、内容生产、视频转化、合同审查和业务复盘。
+## 为什么是 AI 员工，而不是普通 AI 工具
 
-如果你在搜索 SafeClaw、AI 员工、自动获客、一人公司 AI 团队、社媒获客或 safeclaw top，可以从官网了解产品定位和内测入口；但社媒统一承接词以 **SafeClaw AI员工自动获客** 为准。
+普通 AI 工具通常要求用户每次重新解释背景、目标和输出格式。SafeClaw 更强调岗位和连续性：你不是临时问一个问题，而是在把一段工作交给一个具体员工。
 
-## 中文关键词
+这种方式更适合一人公司，因为很多工作并不难，但需要长期重复、及时跟进和持续沉淀。AI 员工的价值不只是生成一段文字，而是把一个业务动作拆开、接住、执行完，再把结果留给下一轮使用。
 
-- SafeClaw
-- SafeClaw AI员工自动获客
-- SafeClaw Top
-- safeclaw top
-- AI 员工
-- 自动获客
-- 一人公司 AI 团队
-- AI 工作团队
-- 社媒获客
-- 客户线索采集
-- 自动私信
-- 内容生产
+## 适合谁
 
-## English Keywords
+SafeClaw 更适合这些场景：
 
-- SafeClaw
-- SafeClaw AI employees
-- SafeClaw automatic lead generation
-- SafeClaw Top
-- safeclaw top
-- AI employees
-- AI employee team
-- automatic lead generation
-- social media lead generation
-- customer profiling
-- automated outreach
-- content production
-- solo founder AI team
+- 一人公司正在做获客，但没有专门的市场、销售和运营团队。
+- 创业者需要持续做社媒内容，但选题、线索、私信和复盘都挤在一起。
+- 小团队希望先用 AI 补齐重复执行岗位，而不是马上扩招。
+- 内容创作者希望把账号定位、内容生产和咨询承接串成一个流程。
+
+如果你正在尝试用 AI 搭一个更轻量的工作团队，可以从官网了解 SafeClaw 当前的产品形态和内测入口：
+
+👉 https://www.safeclaw.top/
 
 ## English Summary
 
-SafeClaw is an AI employee team for solo companies, founders, creators, and small teams. It helps delegate repeatable business workflows to role-based AI employees, including automatic lead generation, customer profiling, social media lead discovery, automated outreach drafting, content production, video conversion, contract review, and business review.
+SafeClaw is an AI employee team for solo companies, founders, creators, and small teams. It helps turn repeatable business workflows into role-based AI work, including customer profiling, social media lead discovery, outreach drafting, content production, conversion support, and business review.
 
-## 官方链接
+Official website: https://www.safeclaw.top/
 
-- 官网 / Website: https://www.safeclaw.top/
-- Sitemap: https://www.safeclaw.top/sitemap.xml
-- LLM context: https://www.safeclaw.top/llms.txt
-
-这个仓库只是 SafeClaw 的公开发现页和搜索引流页，不托管产品源代码。
-
-This repository is a public discovery page for SafeClaw. Product source code is not hosted here.
+This repository is a public introduction page for SafeClaw. Product source code is not hosted here.
